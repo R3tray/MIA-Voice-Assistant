@@ -1,0 +1,17 @@
+# Speech To Text (STT) module configuration
+stt:
+  # Model size for Whisper. Options: tiny, base, small, medium, large-v3
+  # "base" is a good starting point for command recognition.
+  model_name: "medium"
+
+  # The key to hold down for recording audio.
+  # Examples: "ctrl", "alt", "f4", "page down"
+  # List of keys: https://github.com/boppreh/keyboard#api
+  record_key: "f4"
+
+logging:
+  # The level of logs to display in the console.
+  # Options: DEBUG, INFO, WARNING, ERROR, CRITICAL
+  level: "INFO"
+  # File to store all logs.
+  file: "app.log"

@@ -1,0 +1,13 @@
+# For running the main application
+openai-whisper
+sounddevice
+numpy
+scipy
+torch
+torchvision
+torchaudio
+PyYAML
+keyboard
+
+# Note: The torch version can be specified with an index-url, e.g.:
+# torch --extra-index-url https://download.pytorch.org/whl/cu121

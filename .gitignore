@@ -119,3 +119,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# --- Custom Ignores for this Project ---
+
+# Application logs
+*.log
+
+# Research artifacts - do not commit large model files or datasets
+research/**/output/
+research/**/data/

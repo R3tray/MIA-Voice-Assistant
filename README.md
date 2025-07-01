@@ -119,7 +119,7 @@ Contributions are welcome! If you'd like to get involved with the development of
 3.  Make your changes and commit them.
 4.  Create a Pull Request with a clear description of what you've done.
 
-We recommend opening an Issue to discuss your ideas before starting significant work.
+I recommend opening an Issue to discuss your ideas before starting significant work.
 
 ## License
 
